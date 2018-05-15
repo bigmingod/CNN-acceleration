@@ -2,7 +2,7 @@
 *Algorithm Design and Analysis* course in the first half of 2018    
 Copyright ©2018 Bigmingod pkuych and AnTuo1998. All rights reserved. 
 
-## Learning codes of others'
+## Learning papers and codes
 
 - [Learning Structured Sparsity in Deep Neural Network](https://arxiv.org/abs/1608.03665)    
 See [caffe-scnn](https://github.com/bigmingod/CNN-acceleration/tree/dsc/caffe-scnn)
