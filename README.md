@@ -3,7 +3,7 @@
 Copyright ©2018 Bigmingod pkuych and AnTuo1998. All rights reserved.   
 Work of dsc are as [below](https://github.com/bigmingod/CNN-acceleration/tree/dsc).
 
-## Learning papers and codes
+## Ⅰ.Learning papers and codes
 
 - [Learning Structured Sparsity in Deep Neural Network](https://arxiv.org/abs/1608.03665)    
 See [caffe-scnn](https://github.com/bigmingod/CNN-acceleration/tree/dsc/caffe-scnn)
@@ -12,10 +12,10 @@ See [caffe-scnn](https://github.com/bigmingod/CNN-acceleration/tree/dsc/caffe-sc
 See [DeepCompression-caffe-master](https://github.com/bigmingod/CNN-acceleration/tree/dsc/DeepCompression-caffe-master)
 and [caffe-pruned-master](https://github.com/bigmingod/CNN-acceleration/tree/dsc/caffe-pruned-master)
 
-## Sparsity Calculation
+## Ⅱ.Sparsity Calculation
 A simple [code](https://github.com/bigmingod/CNN-acceleration/tree/dsc/calculate) to count up the numbers of 0s in conv1, conv2, ip1 and ip2 of ```lenet```
 
-## Modification of ```Caffe``` Codes
+## Ⅲ.Modification of ```Caffe``` Codes
 1.添加新层
 
 - 仿照卷积层，定义相应的```demo_layer.hpp```放在```include/caffe/layers，demo_layer.cpp在src/caffe/layers```目录下
