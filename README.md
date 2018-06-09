@@ -1,6 +1,6 @@
 # CNN-acceleration
 *Algorithm Design and Analysis* course in the first half of 2018    
-Copyright ©2018 Bigmingod pkuych and AnTuo1998. All rights reserved. 
+Copyright ©2018 Bigmingod pkuych and AnTuo1998. All rights reserved.   
 Work of dsc are as [below](https://github.com/bigmingod/CNN-acceleration/tree/dsc).
 
 ## Learning papers and codes
