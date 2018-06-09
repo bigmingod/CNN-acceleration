@@ -10,3 +10,6 @@ See [caffe-scnn](https://github.com/bigmingod/CNN-acceleration/tree/dsc/caffe-sc
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding”](https://arxiv.org/abs/1510.00149)   
 See [DeepCompression-caffe-master](https://github.com/bigmingod/CNN-acceleration/tree/dsc/DeepCompression-caffe-master)
 and [caffe-pruned-master](https://github.com/bigmingod/CNN-acceleration/tree/dsc/caffe-pruned-master)
+
+## Sparsity Calculation
+A simple [code](https://github.com/bigmingod/CNN-acceleration/tree/dsc/calculate) to count up the numbers of 0s in conv1, conv2, ip1 and ip2 of ```lenet```
