@@ -39,7 +39,7 @@ virtual void Compute_Blob_makes(float ratio){}
 template <typename Dtype>
 void DemoLayer<Dtype>::Compute_Blob_makes(float ratio)
 ```
-在在```src/caffe/net.cpp```的```CopyTrainedLayersFrom(const NetParameter& param)```函数中调用该函数，用于训练好的模型的初始化mask和对权值进行聚类。
+在```src/caffe/net.cpp```的```CopyTrainedLayersFrom(const NetParameter& param)```函数中调用该函数，用于训练好的模型的初始化mask和对权值进行聚类。
 
 4.修改向前向后传播函数
 
